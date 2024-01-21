@@ -9,3 +9,10 @@ GET http://localhost:8080/contacts/65ac5f2be62521267d52698f
 GET http://localhost:8080/contacts/65ac5f2be62521267d526990
 
 ###
+GET https://cse341-web-server-ii.onrender.com/contacts
+###
+GET https://cse341-web-server-ii.onrender.com/contacts/65ac5f2be62521267d52698e
+###
+GET https://cse341-web-server-ii.onrender.com/contacts/65ac5f2be62521267d52698f
+### 
+GET https://cse341-web-server-ii.onrender.com/contacts/65ac5f2be62521267d526990
