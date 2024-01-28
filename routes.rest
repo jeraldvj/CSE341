@@ -30,11 +30,11 @@ POST http://localhost:8080/contacts HTTP/1.1
 content-type: application/json
 
 {
-    "firstName":"Joselin",
-    "lastName":"Brook",
-    "email":"jbrook@test.com",
-    "favoriteColor":"Green",
-    "birthday":"09/29/2000"
+    "firstName":"Maritza",
+    "lastName":"Vega",
+    "email":"mvega@test.com",
+    "favoriteColor":"Black",
+    "birthday":"02/23/2008"
 }
 
 ### Update contact
@@ -49,7 +49,7 @@ content-type: application/json
     "birthday":"04/15/10"
 }
 ### DELETE contact
-DELETE http://localhost:8080/contacts/65b57ecf6fcec42238223254 HTTP/1.1
+DELETE http://localhost:8080/contacts/65b57f286fcec42238223255 HTTP/1.1
 
 // PRODUCTION Deploy
 ### Get all contacts
