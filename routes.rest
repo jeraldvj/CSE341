@@ -43,8 +43,8 @@ content-type: application/json
 
 {
     "firstName":"Rosalia",
-    "lastName":"Diaz",
-    "email":"rosaliadiaz@gmail.com",
+    "lastName":"Mamani",
+    "email":"rosaliamamani@gmail.com",
     "favoriteColor":"Yellow",
     "birthday":"04/15/10"
 }
@@ -83,4 +83,4 @@ content-type: application/json
 }
 
 ### DELETE contact
-DELETE https://cse341-web-server-ii.onrender.com/contacts/65b57f286fcec42238223255 HTTP/1.1
+DELETE https://cse341-web-server-ii.onrender.com/contacts/65b59e79c14d2c01e91422bf HTTP/1.1
